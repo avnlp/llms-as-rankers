@@ -1,6 +1,6 @@
 # LLMs as Rankers
 
-- Large Language Models (LLMs) can be employed as rankers in information retrieval tasks, estimating the relevance of documents given a user query.
+- Large Language Models (LLMs) have emerged as powerful tools for document ranking tasks, showcasing their remarkable ability to understand and rank documents without any task-specific training.
 - Ranking strategies for utilizing LLMs in ranking tasks can be categorized into four main approaches: Pointwise, Pairwise, Listwise, and Setwise Ranking.
 - These methods utilize different prompting techniques to instruct the LLM to output relevance estimations for candidate documents, given a user query and the documents as input.
 
